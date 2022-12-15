@@ -1,6 +1,6 @@
 ## **Hi** 👽🖖
 
-I'm Igo (yes, without r), a full stack developer, autodidact and very curiours about everything related to the techologies that I like to work on. Currently I’m working with React, Node, Typescript and Python. I’ve started to programming because I love technology and I was always curious to know how the games that I used to play and the tools that I used was made. I’ve been studying more about the techs I use, focusing in modern and robust frameworks like Next.js and Nest. I'm not that good with UI and UX but I'm improving it every day.
+I'm Igo (yes, without r), a full stack developer, autodidact and very curious about everything related to the techologies that I like to work on. Currently I’m working with React, Node, Typescript and Python. I’ve started to programming because I love technology and I was always curious to know how the games that I used to play and the tools that I used was made. I’ve been studying more about the techs I use, focusing in modern and robust frameworks like Next.js and Nest. I'm not that good with UI and UX but I'm improving it every day.
 
 ## **Tech stack**
 
