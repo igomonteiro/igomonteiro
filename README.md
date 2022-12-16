@@ -29,4 +29,4 @@ I'm Igo (yes, without r), a full stack developer, autodidact and very curious ab
 
 ####  **Tools**
 
-<img src="https://img.shields.io/badge/figma-222222?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma"/> <img src="https://img.shields.io/badge/Notion-222222?style=for-the-badge&logo=notion&logoColor=000000" alt="Notion"/>
+<img src="https://img.shields.io/badge/figma-222222?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma"/>
