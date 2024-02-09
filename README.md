@@ -7,7 +7,7 @@ I'm Igo (yes, without r), a full stack developer, autodidact and very curious ab
 
 #### **❤ Favorites**
 
-<img src="https://img.shields.io/badge/typescript-222222.svg?style=for-the-badge&logo=typescript&logoColor=23007AC" alt="Typescript"/> <img src="https://img.shields.io/badge/vite-222222.svg?style=for-the-badge&logo=vite&logoColor=646CFF" alt="Vite"/> <img src="https://img.shields.io/badge/React-222222?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/> <img src="https://img.shields.io/badge/node-222222.svg?style=for-the-badge&logo=node.js&logoColor=339933" alt="Node"/> <img src="https://img.shields.io/badge/Tailwind-222222?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind"/> <img src="https://img.shields.io/badge/ChakraUI-222222.svg?style=for-the-badge&logo=chakra-ui&logoColor=319795" alt="ChakraUI"/>
+<img src="https://img.shields.io/badge/typescript-222222.svg?style=for-the-badge&logo=typescript&logoColor=23007AC" alt="Typescript"/> <img src="https://img.shields.io/badge/vite-222222.svg?style=for-the-badge&logo=vite&logoColor=646CFF" alt="Vite"/> <img src="https://img.shields.io/badge/React-222222?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/> <img src="https://img.shields.io/badge/node-222222.svg?style=for-the-badge&logo=node.js&logoColor=339933" alt="Node"/> <img src="https://img.shields.io/badge/Tailwind-222222?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind"/> 
 
 ####  **Languages**
 
